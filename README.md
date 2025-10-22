@@ -38,11 +38,11 @@ Atuo como desenvolvedor **front-end** em formação, com foco na criação de in
 
 ##  Sobre Mim
 
-- 💻 Atualmente desenvolvo na área de Front-end, com foco na criação de **interfaces modernas** e **responsivas**.
-- 🧠 Foco em tecnologias como **React**, **Next.js**, **Vite** e **Tailwind CSS**.
-- ⚖️ Experiência com **componentização**, **roteamento** e **responsividade**.  
-- 💬 Gosto de compartilhar conhecimento e trocar **feedbacks construtivos**.  
-- 🌱 Sempre aprendendo novas formas de aprimorar a **experiência digital**.  
+-  Atualmente desenvolvo na área de Front-end, com foco na criação de **interfaces modernas** e **responsivas**.
+-  Foco em tecnologias como **React**, **Next.js**, **Vite** e **Tailwind CSS**.
+-  Experiência com **componentização**, **roteamento** e **responsividade**.  
+-  Gosto de compartilhar conhecimento e trocar **feedbacks construtivos**.  
+-  Sempre aprendendo novas formas de aprimorar a **experiência digital**.  
 
 ---
 
