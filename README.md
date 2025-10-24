@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanaelbrito/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
-Atuo como desenvolvedor **front-end** em formação, com foco na criação de interfaces bem estruturadas. Busco sempre garantir um código limpo, legível e uma experiência simples e agradável para os usuários. Busco aprender continuamente e aplicar o que estudo em projetos reais, explorando novas ferramentas, práticas que tornem o desenvolvimento mais sustentável. ✅
+Atuo como desenvolvedor **front-end** em formação, com foco na criação de interfaces bem estruturadas. Busco sempre garantir um código limpo, legível e uma experiência simples e agradável para os usuários. Busco aprender continuamente e aplicar o que estudo em projetos reais, explorando novas ferramentas, práticas que tornem o desenvolvimento mais sustentável. 
 
 ---
 
